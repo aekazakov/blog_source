@@ -3,3 +3,5 @@ URL:
 save_as: index.html
 
 Thank you for visiting. Welcome!
+
+[Blog posts](blog_index.html)
